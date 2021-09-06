@@ -1,5 +1,5 @@
 # CrackedAppleSiliconMinecraft
-#### [Work of tanmayb123](https://github.com/shoryamalani/m1_apple_silicon_minecraft), modified to bypass mojang account check. For educational purposes only.
+#### [Work of tanmayb123](https://gist.github.com/tanmayb123/d55b16c493326945385e815453de411a#file-applesiliconminecraft-md), modified to bypass mojang account check. For educational purposes only.
 
 ---
 
