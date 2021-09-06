@@ -4,14 +4,21 @@ Minecraft on Apple Silicon (cracked)
 ## Setup
 You can get a pre-installed, play-ready `.app` copy from the [releases tab](https://github.com/amkdg/AppleSiliconMinecraft/releases).
 
-#### 1. Clone this repository
-```git clone https://github.com/amkdg/AppleSiliconMinecraft```
+#### Step 1: Clone this repository
+```git clone https://github.com/amkdg/AppleSiliconMinecraft AppleSiliconMinecraft && cd AppleSiliconMinecraft```
 
-#### 2. Download Minecraft client & client libraries
+#### Step 2: Download Minecraft client & client libraries
 ```cd libraries; sh download.sh; cd ..```
 
-#### 3. Download Minecraft assets
+#### Step 3: Download Minecraft assets
 ```python3 downloadassets.py```
+
+---
+
+## Running the game
+You can run the game using `sh launch.sh "email" "password" "username" "3g"`
+`"email"` and `"password" are optional arguments`.
+`"3g"` (3 gigabytes) is the amount of RAM to be allocated to the Java Virtual Machine.
 
 ---
 
