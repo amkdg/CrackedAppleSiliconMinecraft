@@ -16,8 +16,8 @@ You can get a pre-installed, play-ready `.app` copy from the [releases tab](http
 ---
 
 ## Running the game
-You can run the game using `sh launch.sh "email" "password" "username" "3g"`
-`"email"` and `"password" are optional arguments`.
+You can run the game using `sh launch.sh "email" "password" "username" "3g"` \
+`"email"` and `"password"` are optional arguments.
 `"3g"` (3 gigabytes) is the amount of RAM to be allocated to the Java Virtual Machine.
 
 ---
