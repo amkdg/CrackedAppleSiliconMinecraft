@@ -1,5 +1,5 @@
 # CrackedAppleSiliconMinecraft
-#### [Work of tanmayb123](https://github.com/shoryamalani/m1_apple_silicon_minecraft), modified to bypass mojang server checks. For educational purposes only.
+#### [Work of tanmayb123](https://github.com/shoryamalani/m1_apple_silicon_minecraft), modified to bypass mojang server check. For educational purposes only.
 
 ---
 
