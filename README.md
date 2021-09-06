@@ -1,5 +1,7 @@
 # CrackedAppleSiliconMinecraft
-##### [Work of tanmayb123](https://github.com/shoryamalani/m1_apple_silicon_minecraft), modified to bypass mojang server checks. For educational purposes only.
+#### [Work of tanmayb123](https://github.com/shoryamalani/m1_apple_silicon_minecraft), modified to bypass mojang server checks. For educational purposes only.
+
+---
 
 "In this ~~gist~~ README, you can find the steps to run Minecraft 1.16.4 natively on Apple Silicon (AS), without needing Rosetta 2 translation of the dependencies (mainly LWJGL and related libraries).
 
