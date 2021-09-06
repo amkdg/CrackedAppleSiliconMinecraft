@@ -1,0 +1,14 @@
+mainClass net.minecraft.client.main.Main
+param --version
+param MultiMC5
+param --assetIndex
+param 1.16
+param --userType
+param mojang
+param --versionType
+param release
+windowTitle MultiMC: Working
+windowParams 854x480
+traits XR:Initial
+traits FirstThreadOnMacOS
+launcher onesix
