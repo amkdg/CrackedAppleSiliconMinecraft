@@ -29,7 +29,7 @@ python3 downloadassets.py
 
 ## Run Minecraft!
 
-> Note: email and password are optional arguments. Username is your in-game username. 3g (3 gigabytes) is the amount of ram allocated to the Java Virtual Machine. Keep everything enclosed in single quotes.
+> Note: email and password are optional arguments. Username is your in-game username. 3g (3 gigabytes) is the amount of ram to be allocated to the Java Virtual Machine. Keep everything enclosed in single quotes.
 
 `sh launch.sh 'email' 'password' 'username' '3g'`
 
