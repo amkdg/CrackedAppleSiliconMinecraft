@@ -1,3 +1,15 @@
 .DS_Store
-__pycache__/.
+**/__pycache__/
+
+logs
+mclog
+
+assets/indexes/*
+assets/objects/*
+assets/skins/*
+libraries/*
+
+!**/.gitkeep
+!libraries/download.sh
+!libraries/lwjglfat.jar
 
