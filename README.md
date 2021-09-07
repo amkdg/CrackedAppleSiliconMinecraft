@@ -32,7 +32,3 @@ python3 downloadassets.py
 > Note: email and password are optional arguments. Username is your in-game username. 3g (3 gigabytes) is the amount of ram to be allocated to the Java Virtual Machine. Keep everything enclosed in single quotes.
 
 `sh launch.sh 'email' 'password' 'username' '3g'`
-
-
-## For convenience
-You can get the game as a pretty, pre-installed, and play-ready `.app` binary from the [releases tab](https://github.com/amkdg/AppleSiliconMinecraft/releases).
