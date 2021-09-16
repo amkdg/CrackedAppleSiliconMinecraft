@@ -13,6 +13,8 @@ To get up and running quickly, follow the steps below."
 
 To begin, clone this repository, containing some pre-compiled core dependencies like LWJGL and a convenient set of setup & launcher scripts. Navigate to it in your terminal. Then follow the next steps.
 
+> Note: this repository contain a single file tracked by [git-lfs](https://git-lfs.github.com). This file is `zulu-11.jdk/Contents/Home/lib/modules` (160MB). Depending on how you clone the repository, this file may not download correctly. I recommend using the command `git lfs clone` to be sure.
+
 ## Download Minecraft client & client libraries
 
 ```
